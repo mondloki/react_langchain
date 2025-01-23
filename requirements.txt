@@ -1,0 +1,5 @@
+langchain-core
+langchainhub
+langchain-community
+langchain-google-genai
+python-dotenv
